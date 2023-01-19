@@ -1,0 +1,15 @@
+D:\Seminar2\zad27\bin\Debug\net6.0\zad27.exe
+D:\Seminar2\zad27\bin\Debug\net6.0\zad27.deps.json
+D:\Seminar2\zad27\bin\Debug\net6.0\zad27.runtimeconfig.json
+D:\Seminar2\zad27\bin\Debug\net6.0\zad27.dll
+D:\Seminar2\zad27\bin\Debug\net6.0\zad27.pdb
+D:\Seminar2\zad27\obj\Debug\net6.0\zad27.csproj.AssemblyReference.cache
+D:\Seminar2\zad27\obj\Debug\net6.0\zad27.GeneratedMSBuildEditorConfig.editorconfig
+D:\Seminar2\zad27\obj\Debug\net6.0\zad27.AssemblyInfoInputs.cache
+D:\Seminar2\zad27\obj\Debug\net6.0\zad27.AssemblyInfo.cs
+D:\Seminar2\zad27\obj\Debug\net6.0\zad27.csproj.CoreCompileInputs.cache
+D:\Seminar2\zad27\obj\Debug\net6.0\zad27.dll
+D:\Seminar2\zad27\obj\Debug\net6.0\refint\zad27.dll
+D:\Seminar2\zad27\obj\Debug\net6.0\zad27.pdb
+D:\Seminar2\zad27\obj\Debug\net6.0\zad27.genruntimeconfig.cache
+D:\Seminar2\zad27\obj\Debug\net6.0\ref\zad27.dll
