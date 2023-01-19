@@ -1,0 +1,15 @@
+D:\Seminar2\zad30_sem\bin\Debug\net6.0\zad30_sem.exe
+D:\Seminar2\zad30_sem\bin\Debug\net6.0\zad30_sem.deps.json
+D:\Seminar2\zad30_sem\bin\Debug\net6.0\zad30_sem.runtimeconfig.json
+D:\Seminar2\zad30_sem\bin\Debug\net6.0\zad30_sem.dll
+D:\Seminar2\zad30_sem\bin\Debug\net6.0\zad30_sem.pdb
+D:\Seminar2\zad30_sem\obj\Debug\net6.0\zad30_sem.csproj.AssemblyReference.cache
+D:\Seminar2\zad30_sem\obj\Debug\net6.0\zad30_sem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Seminar2\zad30_sem\obj\Debug\net6.0\zad30_sem.AssemblyInfoInputs.cache
+D:\Seminar2\zad30_sem\obj\Debug\net6.0\zad30_sem.AssemblyInfo.cs
+D:\Seminar2\zad30_sem\obj\Debug\net6.0\zad30_sem.csproj.CoreCompileInputs.cache
+D:\Seminar2\zad30_sem\obj\Debug\net6.0\zad30_sem.dll
+D:\Seminar2\zad30_sem\obj\Debug\net6.0\refint\zad30_sem.dll
+D:\Seminar2\zad30_sem\obj\Debug\net6.0\zad30_sem.pdb
+D:\Seminar2\zad30_sem\obj\Debug\net6.0\zad30_sem.genruntimeconfig.cache
+D:\Seminar2\zad30_sem\obj\Debug\net6.0\ref\zad30_sem.dll
