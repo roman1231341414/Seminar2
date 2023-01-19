@@ -1,0 +1,15 @@
+D:\Seminar2\Lex_1\bin\Debug\net6.0\Lex_1.exe
+D:\Seminar2\Lex_1\bin\Debug\net6.0\Lex_1.deps.json
+D:\Seminar2\Lex_1\bin\Debug\net6.0\Lex_1.runtimeconfig.json
+D:\Seminar2\Lex_1\bin\Debug\net6.0\Lex_1.dll
+D:\Seminar2\Lex_1\bin\Debug\net6.0\Lex_1.pdb
+D:\Seminar2\Lex_1\obj\Debug\net6.0\Lex_1.csproj.AssemblyReference.cache
+D:\Seminar2\Lex_1\obj\Debug\net6.0\Lex_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Seminar2\Lex_1\obj\Debug\net6.0\Lex_1.AssemblyInfoInputs.cache
+D:\Seminar2\Lex_1\obj\Debug\net6.0\Lex_1.AssemblyInfo.cs
+D:\Seminar2\Lex_1\obj\Debug\net6.0\Lex_1.csproj.CoreCompileInputs.cache
+D:\Seminar2\Lex_1\obj\Debug\net6.0\Lex_1.dll
+D:\Seminar2\Lex_1\obj\Debug\net6.0\refint\Lex_1.dll
+D:\Seminar2\Lex_1\obj\Debug\net6.0\Lex_1.pdb
+D:\Seminar2\Lex_1\obj\Debug\net6.0\Lex_1.genruntimeconfig.cache
+D:\Seminar2\Lex_1\obj\Debug\net6.0\ref\Lex_1.dll

@@ -1,0 +1,15 @@
+D:\Seminar2\zad24_sem\bin\Debug\net6.0\zad24_sem.exe
+D:\Seminar2\zad24_sem\bin\Debug\net6.0\zad24_sem.deps.json
+D:\Seminar2\zad24_sem\bin\Debug\net6.0\zad24_sem.runtimeconfig.json
+D:\Seminar2\zad24_sem\bin\Debug\net6.0\zad24_sem.dll
+D:\Seminar2\zad24_sem\bin\Debug\net6.0\zad24_sem.pdb
+D:\Seminar2\zad24_sem\obj\Debug\net6.0\zad24_sem.csproj.AssemblyReference.cache
+D:\Seminar2\zad24_sem\obj\Debug\net6.0\zad24_sem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Seminar2\zad24_sem\obj\Debug\net6.0\zad24_sem.AssemblyInfoInputs.cache
+D:\Seminar2\zad24_sem\obj\Debug\net6.0\zad24_sem.AssemblyInfo.cs
+D:\Seminar2\zad24_sem\obj\Debug\net6.0\zad24_sem.csproj.CoreCompileInputs.cache
+D:\Seminar2\zad24_sem\obj\Debug\net6.0\zad24_sem.dll
+D:\Seminar2\zad24_sem\obj\Debug\net6.0\refint\zad24_sem.dll
+D:\Seminar2\zad24_sem\obj\Debug\net6.0\zad24_sem.pdb
+D:\Seminar2\zad24_sem\obj\Debug\net6.0\zad24_sem.genruntimeconfig.cache
+D:\Seminar2\zad24_sem\obj\Debug\net6.0\ref\zad24_sem.dll
